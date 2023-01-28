@@ -1,7 +1,6 @@
 <h1>Hi, I'm Tobie, an <a href="https://www.linkedin.com/in/tobiepepito/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-https://github.com/TobiePepitoIT/Images/blob/main/sampleimage.png
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DanielRodriguezIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DanielRodriguezIT/osTicketPostConfiguration)
