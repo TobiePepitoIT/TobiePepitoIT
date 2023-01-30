@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TobiePepitoIT/osticket-postinstall)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TobiePepitoIT/osticket-tckt-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TobiePepitoIT/azurevm-config-adirectory)
+  - [On-premises Active Directory deployed in the cloud (Azure)](https://github.com/TobiePepitoIT/azurevm-config-adirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TobiePepitoIT/azure-nsg-np)
   - [Network File Shares and Permissions](https://github.com/TobiePepitoIT/azurevm-ad-filshare-prmssion)
   - [Building Intuition for DNS](https://github.com/TobiePepitoIT/allbout-dns)
